@@ -1,0 +1,11 @@
+7;4;
+ttfffft>fftf;
+ttffftt>fttf;
+ttfftff>ttft;
+ttffttf>fttt;
+ttftftf>fttf;
+ttttftf>tttf;
+ttfttff>fttf;
+ftftttf>tttt;
+ffftttf>ttff;
+;
