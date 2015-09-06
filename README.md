@@ -1,6 +1,6 @@
 # QuineMcCluskey
 
-QuinMcCluskey method to simplificate Boolean Function.
+QuinMcCluskey method to simplify Boolean Function.
 
 #How to run it
 
